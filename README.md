@@ -1,5 +1,5 @@
 <p align="center">
-<img width="634" alt="HyperionDev-Thumbnail-Image" src="https://github.com/Taharqua/Bootcamp/assets/56850203/7aeecac0-e7f7-4be5-9623-030e5aac82ae">
+<img width="634" alt="HyperionDev-Thumbnail-Image" src="https://github.com/Taharqua/HyperionDev-Bootcamp/assets/56850203/437c9998-c4e1-4d3f-bb2b-b7cc8ea37be4">
 </p>
 
 ## Introduction
