@@ -4,7 +4,7 @@
 
 ## Introduction
 I created this repository to showcase exactly what I learned during my bootcamp.
-This is more compressed version of my bootcamp as I am only displaying my capstone projects.
+This is clear and concise version of my bootcamp as I am only covering my capstone projects despite having completed a total of 48 tasks.
 
 ## Overview of the HyperionDev
 HyperionDev's Software Engineering Bootcamp is a rigorous and immersive 12-week program that I successfully completed, equipping me with the skills and expertise needed to excel in the dynamic field of software development. Throughout the bootcamp, I gained comprehensive knowledge of software engineering concepts and best practices, allowing me to contribute effectively to real-world projects and collaborative development teams.
@@ -15,15 +15,15 @@ The bootcamp's curriculum covered a wide range of topics, including programming 
 ## Capstone Projects
 A key highlight of the bootcamp were the Capstone Projects as they were a great platform to apply my knowledge in practical scenarios. These projects allowed me to develop problem-solving skills, improve my coding proficiency, and gain valuable experience working on real-world challenges.
 
-## [Finance Calculator](https://github.com/Taharqua/Bootcamp/blob/main/Project%201/finance_calculator.py)
+## [Finance Calculator](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Finance%20Calculator/finance_calculator.py)
 
 In my first Capstone Project, I was tasked with creating a program that allows the user to calculate their interest on an investment or calculate the amount that should be repaid on a home loan each month.
 
-Here is a link to my [Finance Calculator](https://github.com/Taharqua/Bootcamp/blob/main/Project%201/finance_calculator.py)
+Here is a link to my [Finance Calculator](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Finance%20Calculator/finance_calculator.py)
 
-## [Task Manager Application](https://github.com/Taharqua/Bootcamp/blob/main/Project%202/task_manager.py)
+## [Task Manager Application](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Task%20Manager%20Application/task_manager.py)
 
-In my second Capstone Project, I was tasked with creating a [Task Management Application](https://github.com/Taharqua/Bootcamp/blob/main/Project%202/task_manager.py).
+In my second Capstone Project, I was tasked with creating a [Task Management Application](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Task%20Manager%20Application/task_manager.py).
 
 In creating the Task Management Application, I had to use my understanding of string handling and working with external data sources.
 
@@ -43,9 +43,9 @@ with open('tasks.txt', "a+") as f3:
   f3.close()
 ```
 
-## [Updated Task Manager Application](https://github.com/Taharqua/Bootcamp/blob/main/Project%203/task_manager.py)
+## [Updated Task Manager Application](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Updated%20Task%20Manager%20Application/task_manager.py)
 
-The third Capstone Project is just a continuation of my second Capstone Project, making improvements on the [Task Management Application](https://github.com/Taharqua/Bootcamp/blob/main/Project%203/task_manager.py).
+The third Capstone Project is just a continuation of my second Capstone Project, making improvements on the [Task Management Application](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Updated%20Task%20Manager%20Application/task_manager.py).
 
 Example:
 
@@ -109,10 +109,10 @@ def reg_user():
             break
 ```
 
-## [Inventory Manager](https://github.com/Taharqua/Bootcamp/blob/main/Project%204/inventory.py)
+## [Inventory Manager](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Inventory%20Manager/inventory.py)
 
 The fourth Capstone Project is using my knowledge of object oriented programming to create a real-world solution.
-In this Project, I will be pretending I am a Nike warehouse manager and creating a platform for [Inventory Manager](https://github.com/Taharqua/Bootcamp/blob/main/Project%204/inventory.py).
+In this Project, I will be pretending I am a Nike warehouse manager and creating a platform for [Inventory Manager](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Inventory%20Manager/inventory.py).
 
 An example of some functions I have created are:
 
@@ -166,9 +166,9 @@ def re_stock():
                 continue
 ```
 
-## [Bookstore Database](https://github.com/Taharqua/Bootcamp/blob/main/Project%205/task48.py)
+## [Bookstore Database](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Bookstore%20Database/task48.py)
 
-The fifth project was to create a [bookstore database](https://github.com/Taharqua/Bootcamp/blob/main/Project%205/task48.py) using my knowledge of Python and libraries such as SQLite.
+The fifth project was to create a [bookstore database](https://github.com/Taharqua/HyperionDev-Bootcamp/blob/main/Bookstore%20Database/task48.py) using my knowledge of Python and libraries such as SQLite.
 
 Example of using SQLite:
 
